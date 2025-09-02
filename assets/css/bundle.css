@@ -3761,7 +3761,8 @@ div.highlight .copy-button{
 
 .docs-list-main .docs-main-content section.docs-content h1,.docs-list-main .docs-main-content section.docs-content h2,.docs-list-main .docs-main-content section.docs-content h3,.docs-list-main .docs-main-content section.docs-content h4,.docs-list-main .docs-main-content section.docs-content h5,.docs-list-main .docs-main-content section.docs-content h6,body.section-registry section.docs-content h1,body.section-registry section.docs-content h2,body.section-registry section.docs-content h3,body.section-registry section.docs-content h4,body.section-registry section.docs-content h5,body.section-registry section.docs-content h6{
   font-family:Gilroy;
-  line-height:1.5
+  line-height:1.5;
+  scroll-margin-top:60px
 }
 
 .docs-list-main .docs-main-content section.docs-content h2,.docs-list-main .docs-main-content section.docs-content h3,.docs-list-main .docs-main-content section.docs-content h4,.docs-list-main .docs-main-content section.docs-content h5,.docs-list-main .docs-main-content section.docs-content h6,body.section-registry section.docs-content h2,body.section-registry section.docs-content h3,body.section-registry section.docs-content h4,body.section-registry section.docs-content h5,body.section-registry section.docs-content h6{
